@@ -18,6 +18,7 @@
   <code><img width="5%" title="Browserstack" src="./images/icons/browserstack.svg"></code>
 </p>
 
+<code><img width="100%" title="certificate" src="./images/istqb.png"></code>
 <code><img width="100%" title="certificate" src="./images/certificate.png"></code>
 
 
